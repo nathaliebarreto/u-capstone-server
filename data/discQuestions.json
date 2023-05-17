@@ -1,0 +1,249 @@
+{
+    "q1":{
+        "questionNumber": 1,
+        "id": "q1",
+        "answers": {
+            "D": "Forceful",
+            "I": "Expressive",
+            "S": "Restrained",
+            "C": "Careful"
+        }
+    },
+    "q2":{
+        "questionNumber": 2,
+        "id": "q2",
+        "answers": {
+            "D": "Pioneering",
+            "I": "Exciting",
+            "S": "Satisfied",
+            "C":  "Correct"
+        }
+    },
+    "q3":{
+        "questionNumber": 3,
+        "id": "q3",
+        "answers": {
+            "D":  "Bold",
+            "I": "Animated",
+            "S": "Willing",
+            "C": "Precise"
+        }
+    },
+    "q4":{
+        "questionNumber": 4,
+        "id": "q4",
+        "answers": {
+            "D": "Argumentative",
+            "I": "Doubting",
+            "S": "Indecisive",
+            "C": "Unpredictable"
+        }
+    },
+    "q5":{
+        "questionNumber": 5,
+        "id": "q5",
+        "answers": {
+            "D": "Daring",
+            "I": "Out-going",
+            "S": "Patient",
+            "C": "Respectful"
+        }
+    },
+    "q6":{
+        "questionNumber": 6,
+        "id": "q6",
+        "answers": {
+            "D": "Self-reliant",
+            "I": "Persuasive",
+            "S":  "Gentle",
+            "C": "Logical"
+        }
+    },
+    "q7":{
+        "questionNumber": 7,
+        "id": "q7",
+        "answers": {
+            "D": "Decisive",
+            "I": "Life-of-the-party",
+            "S": "Even-tempered",
+            "C": "Cautious"
+        }
+    },
+    "q8":{
+        "questionNumber": 8,
+        "id": "q8",
+        "answers": {
+            "D":"Assertive",
+            "I": "Popular",
+            "S": "Generous",
+            "C": "Perfectionist"
+        }
+    },
+    "q9":{
+        "questionNumber": 9,
+        "id": "q9",
+        "answers": {
+            "D":"Unyielding" ,
+            "I": "Colorful",
+            "S": "Easy-going",
+            "C": "Modest"
+        }
+    },
+    "q10":{
+        
+        "questionNumber": 10,
+        "id": "q10",
+        "answers": {
+            "D": "Persistent",
+            "I": "Optimistic",
+            "S": "Accommodating",
+            "C": "Systematic"
+        }
+    },
+    "q11":{
+        "questionNumber": 11,
+        "id": "q11",
+        "answers": {
+            "D": "Relentless",
+            "I": "Talkative",
+            "S": "Neighborly",
+            "C":  "Humble"
+        }
+    },
+    "q12":{
+        
+        "questionNumber": 12,
+        "id": "q12",
+        "answers": {
+            "D": "Strong-willed",
+            "I": "Playful",
+            "S": "Friendly",
+            "C": "Observant"
+        }
+    },
+    "q13":{
+        "questionNumber": 13,
+        "id": "q13",
+        "answers": {
+            "D": "Adventurous",
+            "I": "Charming",
+            "S": "Deliberate",
+            "C": "Disciplined"
+        }
+    },
+    "q14":{
+        "questionNumber": 14,
+        "id": "q14",
+        "answers": {
+            "D": "Aggressive" ,
+            "I": "Attractive",
+            "S": "Steady",
+            "C": "Restrained"
+        }
+    },
+    "q15":{
+        "questionNumber": 15,
+        "id": "q15",
+        "answers": {
+            "D": "Determined" ,
+            "I": "Enthusiastic",
+            "S": "Sympathetic",
+            "C": "Analytical"
+        }
+    },
+    "q16":{
+        "questionNumber": 16,
+        "id": "q16",
+        "answers": {
+            "D": "Commanding",
+            "I": "Impulsive",
+            "S": "Slow-paced",
+            "C": "Critical"
+        }
+    },
+    "q17":{
+
+        "questionNumber": 17,
+        "id": "q17",
+        "answers": {
+            "D": "Force-of-character",
+            "I": "Lively",
+            "S": "Laid-back",
+            "C": "Consistent"
+        }
+    },
+    "q18":{
+
+        "questionNumber": 18,
+        "id": "q18",
+        "answers": {
+            "D": "Independent",
+            "I": "Influential",
+            "S": "Kind",
+            "C": "Orderly"
+        }
+    },
+    "q19":{
+
+        "questionNumber": 19,
+        "id": "q19",
+        "answers": {
+            "D": "Out-spoken",
+            "I": "Popular",
+            "S": "Pleasant",
+            "C": "Idealistic"
+        }
+    },
+    "q20":{
+        "questionNumber": 20,
+        "id": "q20",
+        "answers": {
+            "D": "Impatient",
+            "I": "Emotional",
+            "S": "Procrastinator",
+            "C": "Serious"
+        }
+    },
+    "q21":{
+        "questionNumber": 21,
+        "id": "q21",
+        "answers": {
+            "D": "Competitive",
+            "I": "Spontaneous",
+            "S": "Loyal",
+            "C": "Thoughtful"
+        }
+    },
+    "q22":{
+        "questionNumber": 22,
+        "id": "q22",
+        "answers": {
+            "D":"Courageous" ,
+            "I": "Convincing",
+            "S": "Considerate",
+            "C": "Self-sacrificing"
+        }
+    },
+    "q23":{
+        "questionNumber": 23,
+        "id": "q23",
+        "answers": {
+            "D": "Pushy",
+            "I": "Flighty",
+            "S": "Dependent",
+            "C": "Stoic"
+        }
+    },
+    "q24":{
+        "questionNumber": 24,
+        "id": "q24",
+        "answers": {
+            "D":  "Directing",
+            "I": "Stimulating",
+            "S": "Tolerant",
+            "C": "Conventional"
+        }
+    }
+}
+
+

@@ -1,0 +1,37 @@
+{
+  "101f7b9b-e504-4d58-8795-489defa9fa9d": {
+    "id": "101f7b9b-e504-4d58-8795-489defa9fa9d",
+    "score": {
+      "D": 3,
+      "I": 2,
+      "S": 1,
+      "C": 5
+    },
+    "personalityType": "D",
+    "userId": "1"
+  },
+  "b793995c-4ad4-4d41-82ab-9e31c4613168": {
+    "id": "b793995c-4ad4-4d41-82ab-9e31c4613168",
+    "score": {
+      "D": 24,
+      "I": 0,
+      "S": 0,
+      "C": 0
+    },
+    "personalityType": "D",
+    "userId": "19fa4e80-ed32-41dc-a9bf-224bb8cd9330",
+    "test": "disc"
+  },
+  "2706c2a8-620e-4d04-a6d5-3425a428344a": {
+    "id": "2706c2a8-620e-4d04-a6d5-3425a428344a",
+    "score": {
+      "D": 24,
+      "I": 0,
+      "S": 0,
+      "C": 0
+    },
+    "personalityType": "D",
+    "userId": "a8a74c0d-2b5b-4ab4-8332-e2654e25f400",
+    "test": "disc"
+  }
+}
