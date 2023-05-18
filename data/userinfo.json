@@ -4,23 +4,5 @@
     "name": "nathalie",
     "username": "nati",
     "password": "password123"
-  },
-  "93fc288c-6d4b-4ec4-8d38-5d4fc4c7a689": {
-    "id": "93fc288c-6d4b-4ec4-8d38-5d4fc4c7a689",
-    "name": "123",
-    "username": "123",
-    "password": "123"
-  },
-  "19fa4e80-ed32-41dc-a9bf-224bb8cd9330": {
-    "id": "19fa4e80-ed32-41dc-a9bf-224bb8cd9330",
-    "name": "bob",
-    "username": "bob",
-    "password": "bob"
-  },
-  "a8a74c0d-2b5b-4ab4-8332-e2654e25f400": {
-    "id": "a8a74c0d-2b5b-4ab4-8332-e2654e25f400",
-    "name": "eric",
-    "username": "eric",
-    "password": "eric"
   }
 }
