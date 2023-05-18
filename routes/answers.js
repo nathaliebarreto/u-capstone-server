@@ -20,7 +20,7 @@ function getUserAnswer(userId) {
         return usersAnswers;
     } else {
         return undefined;
-    }
+    } 
 }
 
 
